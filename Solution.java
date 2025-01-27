@@ -25,6 +25,7 @@ class Solution {
             System.out.println("Indices: [" + result[0] + ", " + result[1] + "]");
         } else {
             System.out.println("No solution found.");
+            System.out.println("ema readdy ");
         }
     }
 }
